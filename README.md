@@ -1,5 +1,5 @@
 ### Hi there 👋
-[embed]https://github.com/ClaytonOlsen/ClaytonOlsen.github.io/blob/main/Resume_2021_winter.pdf
+https://docs.google.com/viewer?url=${https://github.com/ClaytonOlsen/ClaytonOlsen.github.io/blob/main/Resume_2021_winter.pdf}
 <!--
 **ClaytonOlsen/ClaytonOlsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
