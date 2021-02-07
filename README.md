@@ -1,6 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working at Sparta Science as a Data Science Intern
-- 🌱 I’m currently a student as UCSC pursuing my Master's in Statistical Science 
+I am a second-year statistical science master's student with an interest in pursuing a career in data science. I'm actively searching for full-time employment opportunities or internships to apply and broaden my research experience in data analytics. Feel free to contact me at cyolsen@ucsc.edu. 
+
+
 - Feel free to checkout my ![Resume](https://github.com/ClaytonOlsen/ClaytonOlsen.github.io/blob/main/Resume_2021_winter.pdf)
 <!--
 **ClaytonOlsen/ClaytonOlsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
