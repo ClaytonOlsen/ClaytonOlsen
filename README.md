@@ -1,5 +1,7 @@
 ### Hi there 👋
-![Resume](https://github.com/ClaytonOlsen/ClaytonOlsen.github.io/blob/main/Resume_2021_winter.pdf)
+- 🔭 I’m currently working at Sparta Science as a Data Science Intern
+- 🌱 I’m currently a student as UCSC pursuing my Master's in Statistical Science 
+- Feel free to checkout my ![Resume](https://github.com/ClaytonOlsen/ClaytonOlsen.github.io/blob/main/Resume_2021_winter.pdf)
 <!--
 **ClaytonOlsen/ClaytonOlsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
