@@ -1,7 +1,7 @@
 ### Hi there 👋
 <a href="https://www.linkedin.com/in/clayton-olsen-971b83132/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
-I am a second-year statistical science master's student at UCSC and Data Science Intern at Sparta Science with an interest in pursuing a career in data science. I'm actively searching for full-time employment opportunities or internships to apply and broaden my research experience in data analytics. Feel free to checkout my ![Resume](https://github.com/ClaytonOlsen/ClaytonOlsen.github.io/blob/main/Resume_2021_winter.pdf) or contact me at cyolsen@ucsc.edu.
+I am a second-year statistical science master's student at UCSC and Data Science Intern at Sparta Science with an interest in pursuing a career in data science. I'm actively searching for full-time employment opportunities or internships to apply and broaden my research experience in data analytics. Feel free to checkout my ![Resume](https://github.com/ClaytonOlsen/ClaytonOlsen/blob/main/Resume_ClayOlsen_2021.pdf) or contact me at cyolsen@ucsc.edu.
 <!--
 **ClaytonOlsen/ClaytonOlsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
