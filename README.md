@@ -1,6 +1,7 @@
 ### Hi there 👋
 <a href="https://www.linkedin.com/in/clayton-olsen-971b83132/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 <iframe seamless frameborder="0" src="https://public.tableau.com/views/GTSRB_Result_Viz/GTSRB?:embed=yes&:display_count=yes&:showVizHome=no" width = '650' height = '450' scrolling='yes' ></iframe>
+
 I am a second-year statistical science master's student at UCSC and Data Science Intern at Sparta Science with an interest in pursuing a career in data science. I'm actively searching for full-time employment opportunities or internships to apply and broaden my research experience in data analytics. Feel free to checkout my ![Resume](https://github.com/ClaytonOlsen/ClaytonOlsen/blob/main/Resume_ClayOlsen_2021.pdf) or contact me at cyolsen@ucsc.edu.
 
 
