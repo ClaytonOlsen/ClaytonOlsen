@@ -5,6 +5,7 @@ I am a recent graduate of the statistical science master's program at UCSC and a
 
 <h3>Things I code with</h3>
 
+ <img alt="html5" src="https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=html5&logoColor=blue" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
 <!--
