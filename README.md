@@ -1,4 +1,4 @@
-### Hi there 👋
+### Clay Olsen | Data Science 👋
 
 
 <!--
