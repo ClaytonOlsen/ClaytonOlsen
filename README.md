@@ -1,6 +1,7 @@
 ### Clay Olsen 👋
 
-<p>27 year old data scientist from the Bay Area &#x1F3C1;</p>
+<p>27 year old data scientist from the Bay Area, CA</p>
+
 
 
 <!--
