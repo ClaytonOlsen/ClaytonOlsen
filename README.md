@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑🏼‍🦲Data Science exploring new modeling techniques and working on independent projects<br>📚Studied Statistics at UCSC<br>💭Currently learning about Transformer models and trying to build projects using its framework
+🧑🏼‍🦲Data Science exploring new modeling techniques and working on independent projects<br>📚Studied Statistics at UC Santa Cruz and Business Analytics at Seattle University<br>💭Currently learning about Transformers and NLP applications.<br>
 
 
 ## 🌐 Socials:
