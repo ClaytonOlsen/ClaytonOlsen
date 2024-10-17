@@ -2,7 +2,7 @@
 🧑🏼‍🦲Data Science exploring new modeling techniques and working on independent projects<br>
 📚Studied Statistics at UC Santa Cruz and Business Analytics at Seattle University<br>
 💭Currently learning about Transformers and NLP applications.<br>
-🌐Check out my <a href="[https://example.com](https://claytonolsen.github.io/)" target="_blank">Portfolio</a>
+🌐Check out my <a href="https://claytonolsen.github.io/" target="_blank">Portfolio</a>
 
 
 
