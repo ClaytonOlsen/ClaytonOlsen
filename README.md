@@ -1,5 +1,9 @@
 # 💫 About Me:
-🧑🏼‍🦲Data Science exploring new modeling techniques and working on independent projects<br>📚Studied Statistics at UC Santa Cruz and Business Analytics at Seattle University<br>💭Currently learning about Transformers and NLP applications.<br>
+🧑🏼‍🦲Data Science exploring new modeling techniques and working on independent projects<br>
+📚Studied Statistics at UC Santa Cruz and Business Analytics at Seattle University<br>
+💭Currently learning about Transformers and NLP applications.<br>
+🌐Check out my [Portfolio](https://claytonolsen.github.io/)
+
 
 
 ## 🌐 Socials:
